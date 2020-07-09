@@ -1,5 +1,7 @@
-# Hi, I'm Asad!
-I make stuff on computer.
+<img width="200" src="welcometo.gif" />
+<img width="300" src="asadgithub.png" />
+
+
 You may know me as:
 - Co-founder and CTO of [CodeInterview.io](https://codeinterview.io) & [RemoteInterview.io](https://remoteinterview.io). 
 <br/>Two products with one goal: accurately measure candidates' coding skills.

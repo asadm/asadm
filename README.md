@@ -1,5 +1,5 @@
-<img width="200" src="welcometo.gif" />
-<img width="300" src="asadgithub.png" />
+<img width="200" src="https://github.com/asadm/asadm/blob/master/welcometo.gif" />
+<img width="300" src="https://github.com/asadm/asadm/blob/master/asadgithub.png" />
 
 
 You may know me as:
